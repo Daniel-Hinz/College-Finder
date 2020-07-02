@@ -1,0 +1,129 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #fcfcfc;
+}
+
+p {
+	font-size: 40px;
+	font-family: Verdana;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+
+.topHeader {
+	text-align: right;
+	float:right;
+	padding-top: 55px;
+}
+
+.topHeader li{
+	text-align: center;
+	display:inline-block;
+	height: 20px;
+	padding-top: 3px;
+	width: 147px;
+}
+
+.topHeader li a{
+	text-decoration: none;
+	list-style-type: none;
+	color: #363636;
+	font-size: 15px;
+}
+
+.navMenu {
+	background:#f4f4f4;
+	text-align:right;
+	height: 45px;
+	width:1250px;
+	float:left;
+	padding-top: 15px;
+}
+
+.navMenu li {
+	display:inline-block;
+	height: 40px;
+	width: 180px;
+	text-align:center;
+}
+
+.navMenu li a {
+	font-size: 30px;
+	color: #363636;
+	text-decoration:none;
+	list-style-type:none;
+}
+
+.search-bar {
+	background:#f4f4f4;
+	height: 55px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+.search-bar input {
+	font-size: 17px;
+	height: 40px;
+	width: 225px;
+	padding-left: 15px;
+	float:right;
+}
+
+.filterList p {
+	text-decoration: underline;
+	font-size: 35px;
+	font-family: Verdana;
+	padding: 25px;
+}
+
+.filterList {
+	width: 20%px;
+	height: 700px;
+	float:left;
+	padding-right: 100px;
+}
+
+.filterList li {
+	padding-left: 20px;
+	font-size: 25px;
+}
+
+.locationList {
+
+}
+
+.locationList li {
+	font-size: 20px;
+	height: 30px;
+}
+
+.collegeList {
+	overflow:hidden;
+}
+
+.collegeList p{
+	padding-bottom:25px;
+	text-decoration:underline;
+}
+
+.colleges {
+	display: inline-block;
+	height: 125px;
+	width: 25%;
+	font-size:15px;
+	border: 1px solid black;
+	float: left;
+	padding: 10px;
+	list-style-type:none;
+}
+
+.colleges li {
+	text-align: center;
+	bottom: 0;
+}
+
+
