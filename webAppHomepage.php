@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>	
 	<head>
-		<title>Clique Finder</title>
+		<title>CollegeFinder</title>
 		<link rel="stylesheet" href = "homepage.css">
 	</head>
 	
@@ -13,7 +13,7 @@
 			<li><a href "#">Create an Account</a></li>
 		</ul>
 	</header>
-		<p>Clique Finder</p>
+		<p>CollegeFinder</p>
 		<ul class = "navMenu">
 			<li><a href "webAppAllColleges.php">All Colleges</a></li>
 			<li><a href "#">Divison 1</a></li>
