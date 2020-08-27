@@ -54,7 +54,7 @@ p {
 .search-bar input {
 	float:left;
 	font-size: 17px;
-	height: 40px;
+	height: 42px;
 	width: 55%;
 	padding-left: 15px;
 	margin-top: 17px;
@@ -218,6 +218,12 @@ p {
 	color: #383838;
 }
 
+.collegeList a {
+	float: left;
+	margin-right: 1200px;
+	margin-bottom: 15px; 	
+}
+
 .colleges {
 	display: inline-block;
 	height: 175px;
@@ -278,6 +284,22 @@ p {
 }
 
 .tuitionColleges li {
+	text-align: center;
+	color: #4a4a4a;
+}
+
+.locationColleges {
+	display: inline-block;
+	height: 175px;
+	width: 25%;
+	font-size:15px;
+	float: left;
+	padding: 10px;
+	margin-bottom: 10px;
+	list-style-type:none;
+}
+
+.locationColleges li {
 	text-align: center;
 	color: #4a4a4a;
 }
